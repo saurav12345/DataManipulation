@@ -1,2 +1,2 @@
-# Data Manupulation using Python
+# Data Manipulation using Python
 Manipulation of Excel Data Using Pandas
